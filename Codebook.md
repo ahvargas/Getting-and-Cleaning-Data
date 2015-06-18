@@ -92,6 +92,3 @@ str(dataset)
  $ variable: Factor w/ 66 levels "Time Body Acceleration Mean X",..: 1 2 3 4 5 6 7 8 9 10 ...
  $ mean    : num  0.2216 -0.0405 -0.1132 -0.9281 -0.8368 ...
 ```
-
-Tidy, f, quote=FALSE, sep="\t", row.names=FALSE)
-```
