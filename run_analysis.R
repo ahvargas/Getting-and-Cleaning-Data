@@ -164,6 +164,6 @@ tidy <- ddply(large, .(activity,subject,variable), summarize, mean = mean(value)
 
 ##Finally write the results
 
-write.table(tidy, "tidy.txt", row.name=FALSE)
+write.table(tidy, "tydy.txt", row.name=FALSE)
 
 
